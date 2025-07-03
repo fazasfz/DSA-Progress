@@ -38,7 +38,7 @@ Each topic is organized into folders with:
 
 | Date       | Topic        | Progress / Notes                            |
 |------------|--------------|---------------------------------------------|
-| 2000-00-00 | ------       | Learned basic operations + 2 problems done  |
+| 2025-07-01 | Arrays       | declaring & accessing                       |
 | 2000-00-00 | ------       | Practiced searching, added notes            |
 
 ---
