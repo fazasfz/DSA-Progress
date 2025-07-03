@@ -21,8 +21,8 @@ I'm building strong foundations in data structures and problem-solving with cons
 - [ ] Dynamic Programming
 
 Each topic is organized into folders with:
-- ✅ Code files
-- ✅ Practice problems
+- ✅ Code files (questions solved)
+- ✅ Practice problems/questions
 - ✅ Notes or key concepts (where necessary)
 
 ---
