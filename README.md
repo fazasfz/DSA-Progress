@@ -9,6 +9,7 @@ I'm building strong foundations in data structures and problem-solving with cons
 ## 📚 Topics Covered
 
 - [x] Arrays
+- [x] Structures
 - [ ] Strings
 - [ ] Linked Lists
 - [ ] Stacks & Queues
@@ -36,10 +37,11 @@ Each topic is organized into folders with:
 
 ## 📌 Progress Log
 
-| Date       | Topic        | Progress / Notes                            |
-|------------|--------------|---------------------------------------------|
-| 2025-07-01 | Arrays       | declaring & accessing                       |
-| 2000-00-00 | ------       | Practiced searching, added notes            |
+| Date       | Topic            | Progress / Notes                            |
+|------------|------------------|---------------------------------------------|
+| 2025-07-01 | Arrays           | declaring & accessing                       |
+| 2025-07-02 | Structures       | declaring + initialization + accessing      |
+| 2025-07-03 | Pointers         |                                             |
 
 ---
 
