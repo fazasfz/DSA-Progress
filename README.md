@@ -41,7 +41,7 @@ Each topic is organized into folders with:
 |------------|------------------|---------------------------------------------|
 | 2025-07-01 | Arrays           | declaring & accessing                       |
 | 2025-07-02 | Structures       | declaring + initialization + accessing      |
-| 2025-07-03 | Pointers         |                                             |
+| 2025-07-03 | Practice         | the problems & practice questions           |
 
 ---
 
