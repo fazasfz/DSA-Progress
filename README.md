@@ -37,11 +37,16 @@ Each topic is organized into folders with:
 
 ## 📌 Progress Log
 
-| Date       | Topic            | Progress / Notes                            |
-|------------|------------------|---------------------------------------------|
-| 2025-07-01 | Arrays           | declaring & accessing                       |
-| 2025-07-02 | Structures       | declaring + initialization + accessing      |
-| 2025-07-03 | Practice         | the problems & practice questions           |
+| Date       | Topic                    | Progress / Notes                            |
+|------------|--------------------------|---------------------------------------------|
+| 2025-07-01 | Arrays                   | declaring & accessing                       |
+| 2025-07-02 | Structures               | declaring + initialization + accessing      |
+| 2025-07-03 | Practice                 | the problems & practice questions           |
+| 2025-07-04 | Pointers                 | declaring & need & access                   |
+| 2025-07-05 | References               | need & access                               |
+| 2025-07-06 | Pointers to Structures   | static and dynamic object creation          |
+| 2025-07-07 | Functions                | declaration                                 |
+| 2025-07-08 | Passing parameters       | Structure & Array as parameters             |
 
 ---
 
