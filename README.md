@@ -46,7 +46,9 @@ Each topic is organized into folders with:
 | 2025-07-05 | References               | need & access                               |
 | 2025-07-06 | Pointers to Structures   | static and dynamic object creation          |
 | 2025-07-07 | Functions                | declaration                                 |
-| 2025-07-08 | Passing parameters       | Structure & Array as parameters             |
+| 2025-07-08 | Passing parameters       | by value, address, and reference            |
+| 2025-07-09 | Array as Parameters      |                                             |
+| 2025-07-10 | Struccture as Parameter  |                                             |
 
 ---
 
