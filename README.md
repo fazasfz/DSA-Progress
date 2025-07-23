@@ -49,6 +49,19 @@ Each topic is organized into folders with:
 | 2025-07-08 | Passing parameters       | by value, address, and reference            |
 | 2025-07-09 | Array as Parameters      |                                             |
 | 2025-07-10 | Struccture as Parameter  |                                             |
+| 2025-07-11 | stack vs heap memory     |                                             |
+| 2025-07-12 | Time & space complexity  |                                             |
+| 2025-07-13 | recursion intro          | how it works, time complexity in it         |
+| 2025-07-14 | recursion intro          | how recursion uses stack                    |
+| 2025-07-15 | static & global variables|                                             |
+| 2025-07-16 | types of recursion       | tail & head                                 |
+| 2025-07-17 | types of recursion       | tree                                        |
+| 2027-07-18 | types of recursion       | indirect & Nested                           |
+| 2025-07-19 | sum of natural num (recu)|                                             |
+| 2025-07-20 | Factorial using recu     |                                             |
+| 2025-07-21 | power using recursion    |                                             |
+| 2025-07-22 | Taylor series (recursion)|                                             |
+| 2025-07-23 | Taylor series(hornerrule)|
 
 ---
 
