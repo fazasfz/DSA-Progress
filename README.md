@@ -10,14 +10,23 @@ I'm building strong foundations in data structures and problem-solving with cons
 
 - [x] C++ Essential Concepts
 - [x] Recursion
+- [ ] Arrays
 - [ ] Strings
-- [ ] Linked Lists
-- [ ] Stacks & Queues
+- [ ] Matrices
+- [ ] Stack
+- [ ] Queues
 - [ ] Trees
-- [ ] Searching & Sorting
-- [ ] Hashing
-- [ ] Graphs
+- [ ] Binary Search trees & AVL trees & Search trees
+- [ ] Heap
+- [ ] Sorting techniques
+- [ ] hasing techniques
+- [ ] graphs
+- [ ] recurrence relation
+- [ ] asymptotic notation
+- [ ] divide & conquer
+- [ ] greedy method
 - [ ] Dynamic Programming
+- [ ] backtracking
 
 Each topic is organized into folders with:
 - ✅ Code files (questions solved)
