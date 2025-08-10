@@ -43,11 +43,4 @@ Each topic is organized into folders with:
 
 ---
 
-## 📌 Progress Log
-
-| Date                    | Topic                    |
-|-----------------------  |--------------------------|
-| 2025-07-01 - 2025-07-12 |  Essential C++ Concepts  | 
-| 2025-07-13 - 2025-07-29 | recursion                |
-
 Stay tuned as I build and improve daily 🚀
